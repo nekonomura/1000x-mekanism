@@ -3,8 +3,8 @@
     "block.superores.super_deepslate_coal_ore":"深層高密度石炭鉱石",
     "block.superores.super_copper_ore":"高密度銅鉱石",
     "block.superores.super_deepslate_copper_ore":"深層高密度銅鉱石",
-    "block.superores.super_diamond_ore":"高密度ダイアモンド鉱石",
-    "block.superores.super_deepslate_diamond_ore":"深層高密度ダイアモンド鉱石",
+    "block.superores.super_diamond_ore":"高密度ダイヤモンド鉱石",
+    "block.superores.super_deepslate_diamond_ore":"深層高密度ダイヤモンド鉱石",
     "block.superores.super_emerald_ore":"高密度エメラルド鉱石",
     "block.superores.super_deepslate_emerald_ore":"深層高密度エメラルド鉱石",
     "block.superores.super_fluorite_ore":"高密度蛍石鉱石",
@@ -24,8 +24,8 @@
     "block.superores.super_deepslate_osmium_ore":"深層高密度オスミウム鉱石",
     "block.superores.super_redstone_ore":"高密度レッドストーン鉱石",
     "block.superores.super_deepslate_redstone_ore":"深層高密度レッドストーン鉱石",
-    "block.superores.super_tin_ore":"高密度スズ鉱石",
-    "block.superores.super_deepslate_tin_ore":"深層高密度スズ鉱石",
+    "block.superores.super_tin_ore":"高密度錫鉱石",
+    "block.superores.super_deepslate_tin_ore":"深層高密度錫鉱石",
     "block.superores.super_uranium_ore":"高密度ウラン鉱石",
     "block.superores.super_deepslate_uranium_ore":"深層高密度ウラン鉱石"
 }
